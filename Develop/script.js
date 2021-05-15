@@ -81,9 +81,7 @@ function generatePassword() {
 
     passwordText.value = password;
 
-    // copyBtn.removeAttribute("disabled");
-  // copyBtn.focus();
-}
+  }
 
 
 
